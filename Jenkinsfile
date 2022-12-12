@@ -21,9 +21,5 @@ pipeline {
 			echo "Running another test job"
 			}        
 		}
-			       
-		
-		
-			
-	}
+		}
 }
