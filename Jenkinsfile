@@ -21,6 +21,11 @@ pipeline {
 			echo "Running another test job"
 			}        
 		}
+			stage('Five') {       
+			steps {
+			echo "Running last test job"
+			}        
+		}
 			
 		
 		}
